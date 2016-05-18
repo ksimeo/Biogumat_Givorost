@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/GivorostAdmin/src/main/java/com/ksimeo/nazaru/admin/controllers/CorrProdCtrl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostAdmin/src/main/java/com/ksimeo/nazaru/admin/controllers/DelProdCtrl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostAdmin/src/main/java/com/ksimeo/nazaru/admin/controllers/DelUserCtrl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostAdmin/src/main/java/com/ksimeo/nazaru/admin/controllers/UsersCtrl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostAdmin/src/main/java/com/ksimeo/nazaru/admin/filters/CharsetFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostAdmin/src/main/java/com/ksimeo/nazaru/admin/filters/SecurityFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostAdmin/src/main/java/com/ksimeo/nazaru/admin/helpers/RestRequestsHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostAdmin/src/main/java/com/ksimeo/nazaru/admin/repository/IUserRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostAdmin/src/main/java/com/ksimeo/nazaru/admin/repository/impl/OrderRestDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostAdmin/src/main/java/com/ksimeo/nazaru/admin/repository/impl/ProdRestDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostAdmin/src/main/java/com/ksimeo/nazaru/admin/repository/impl/UserRestDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostAdmin/src/main/java/com/ksimeo/nazaru/admin/repository/mocks/OrderRepositoryMock.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostAdmin/src/main/java/com/ksimeo/nazaru/admin/repository/mocks/UserRepositoryMock.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostAdmin/src/main/java/com/ksimeo/nazaru/admin/services/IOrderService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostAdmin/src/main/java/com/ksimeo/nazaru/admin/services/IProductService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostAdmin/src/main/java/com/ksimeo/nazaru/admin/services/IUserService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostAdmin/src/main/java/com/ksimeo/nazaru/admin/services/impl/OrderService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostAdmin/src/main/java/com/ksimeo/nazaru/admin/services/impl/ProductService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostAdmin/src/main/java/com/ksimeo/nazaru/admin/services/impl/UserService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostAdmin/src/main/webapp/script/mainpage.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostCore/src/main/java/com/ksimeo/nazaru/core/models/Order.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostCore/src/main/java/com/ksimeo/nazaru/core/models/Parcel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostCore/src/main/java/com/ksimeo/nazaru/core/models/Product.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostCore/src/main/java/com/ksimeo/nazaru/core/models/Region.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostCore/src/main/java/com/ksimeo/nazaru/core/models/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostRest/src/main/java/com/ksimeo/nazaru/rest/config/JpaConfiguration.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostRest/src/main/java/com/ksimeo/nazaru/rest/controllers/OrderController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostRest/src/main/java/com/ksimeo/nazaru/rest/controllers/UserController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostRest/src/main/java/com/ksimeo/nazaru/rest/dao/ProductRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostRest/src/main/java/com/ksimeo/nazaru/rest/dao/impl/OrderDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostRest/src/main/java/com/ksimeo/nazaru/rest/dao/mocks/impl/OrderDaoMock.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostRest/src/main/java/com/ksimeo/nazaru/rest/services/impl/OrderService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostRest/src/main/java/com/ksimeo/nazaru/rest/services/impl/ProductService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GivorostRest/src/main/java/com/ksimeo/nazaru/rest/services/impl/UserService.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

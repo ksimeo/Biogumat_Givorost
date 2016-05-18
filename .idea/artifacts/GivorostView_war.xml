@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="GivorostView:war">
+    <output-path>$PROJECT_DIR$/GivorostView/target</output-path>
+    <root id="archive" name="BiogumatGivorostJ2EEWebApp(CustomersPart).war">
+      <element id="artifact" artifact-name="GivorostView:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,250 @@
+body {
+    margin: 0;
+    width: 100%;
+    background: #E0FFFF;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1, h2, h3, h4 {
+    font-family: Helvetica, Verdana, Arial, sans-serif;
+    /*text-align: center;*/
+}
+
+.mainbody {
+    background-image: url(/img/givorost-background.png);
+    background-size: 80%;
+    background-position: 50%, 30%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#brand {
+    margin-bottom: 0;
+    margin-left: 0;
+    opacity: 0.8;
+}
+
+#adminsbody {
+    padding: 0;
+    margin-top: 0;
+    /*margin-left: 0;*/
+    /*margin-right: 0;*/
+    width: 100%;
+    height: 5% margin : 0;
+    background: #E0FFFF;
+}
+
+#stripe {
+    background: #E8E8E8;
+    box-shadow: 0.4em 0.4em 5px rgba(122, 122, 122, 0.5);
+    /*height: 30px;*/
+    /*padding: 5px, 5px, 5px, 5px;*/
+
+}
+
+#enterbody {
+    background: url(/img/biogumat-heart3.png) no-repeat;
+    background-color: #E0FFFF;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0;
+    background-size: 30%;
+}
+
+.systbody {
+    background: url(/img/biogumat-simple2.png);
+    background-color: #E0FFFF;
+    background-size: 15%;
+    background-position: 15%, 10%;
+    /*background-opacity: 0.3;*/
+
+}
+
+#enterform {
+    text-align: center;
+    margin: auto;
+    margin-top: 17%;
+}
+
+#agrocalcplank {
+    background-color: #FFF8DC;
+    /*background-color: azure;*/
+    border: 1px solid olivedrab;
+    text-align: -webkit-center;
+    border-radius: 10px;
+    padding: 15px;
+    padding-bottom: 50px;
+    width: 60%;
+    height: 70%;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: 0.4em 0.4em 5px #232f23;
+}
+
+#t {
+    width: 95%;
+    margin: 0 auto;
+}
+
+#t1 {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#t2 {
+    width: 70%;
+    margin: 0 auto;
+}
+
+/*.div-content*/
+/*{*/
+/*background-color: #ededed;*/
+/*border: 1px solid #aaacb2;*/
+/*border-radius: 10px;*/
+/*padding: 5px;*/
+/*margin-top: 5px;*/
+/*font-family: sans-serif;*/
+/*opacity: 100;*/
+/*width: 750px;*/
+/*}*/
+
+#plank1 {
+    text-align: -webkit-center;
+}
+
+#enter {
+    text-align: -webkit-center;
+    margin: 0px auto;
+    margin-top: 60px;
+    background-color: #E0FFFF;
+}
+
+#number {
+    width: 6em;
+    opacity: 1;
+}
+
+#orderplank {
+    font-family: sans-serif;
+    background-color: #FFF8DC;
+    border: 1px solid olivedrab;
+    text-align: -webkit-center;
+    border-radius: 10px;
+    padding: 15px;
+    width: 45%;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: 0.4em 0.4em 5px #232f23;
+}
+
+#userplank {
+    background: azure;
+    border: 1px solid olivedrab;
+    border-radius: 10px;
+    padding: 20px;
+    font-family: sans-serif;
+    width: 40%;
+    text-align: -webkit-center;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: 0.4em 0.4em 5px #232f23;
+}
+
+#productplank {
+    background: azure;
+    border: 1px solid olivedrab;
+    border-radius: 10px;
+    padding: 20px 10px 20px 10px;
+    font-family: sans-serif;
+    width: 30%;
+    text-align: -webkit-center;
+    margin: 0 auto;
+    margin-top: 50;
+    box-shadow: 0.4em 0.4em 5px #232f23;
+}
+
+#passwordplank {
+    background: azure;
+    border: 1px solid olivedrab;
+    border-radius: 10px;
+    padding: 20px 10px 20px 10px;
+    font-family: sans-serif;
+    width: 30%;
+    text-align: -webkit-center;
+    margin: 0 auto;
+    margin-top: 50;
+    box-shadow: 0.4em 0.4em 5px #232f23;
+}
+
+.table-userdata {
+    position: static;
+    left: 0px;
+    top: 100px;
+    z-index: 5;
+    text-align: center;
+}
+
+.table-allproducts {
+    border: 3px solid black;
+    border-collapse: collapse;
+    margin-left: 50px;
+}
+
+.tablesorter {
+    border: 3px solid #000000;
+    border-collapse: collapse;
+    margin-left: 50px;
+    box-shadow: 0.4em 0.4em 5px rgba(122, 122, 122, 0.5);
+}
+
+.column-view {
+    font-family: "Georgia", serif;
+    font-weight: bold;
+    width: 400px;
+    color: black;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.column-view-center {
+    font-family: "Georgia", serif;
+    font-weight: bold;
+    text-align: center;
+    width: 400px;
+    color: black;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.column-viewHeader {
+    font-family: "Georgia", serif;
+    font-weight: bold;
+    text-align: center;
+    width: 400px;
+    color: #d4ebda;
+    border: 1px solid black;
+    padding: 5px;
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-color: #030303;
+    cursor: pointer;
+}
+
+.shadowtext {
+    text-shadow: 1px 1px 2px black, 0 0 1em #fffa7c; /* Параметры тени */
+    color: white; /* Белый цвет текста */
+    font-size: 2em; /* Размер надписи */
+}
+
+table .stripy tr:nth-child(odd) {
+    /* Задаем стили для нечетных рядов таблицы */
+    background: bisque;
+}
+
+table .stripy tr:nth-child(even) {
+    /* Задаем стили для четных рядов таблицы */
+    background: azure;
+}

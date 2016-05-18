@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Givorost.iml" filepath="$PROJECT_DIR$/Givorost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GivorostAdmin/GivorostAdmin.iml" filepath="$PROJECT_DIR$/GivorostAdmin/GivorostAdmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GivorostCore/GivorostCore.iml" filepath="$PROJECT_DIR$/GivorostCore/GivorostCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GivorostRest/GivorostRest.iml" filepath="$PROJECT_DIR$/GivorostRest/GivorostRest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GivorostView/GivorostView.iml" filepath="$PROJECT_DIR$/GivorostView/GivorostView.iml" />
+    </modules>
+  </component>
+</project>
